@@ -1,0 +1,14 @@
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\obj\Debug\net10.0\RescueGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\obj\Debug\net10.0\RescueGame.AssemblyInfoInputs.cache
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\obj\Debug\net10.0\RescueGame.AssemblyInfo.cs
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\obj\Debug\net10.0\RescueGame.csproj.CoreCompileInputs.cache
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\bin\Debug\net10.0\RescueGame.exe
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\bin\Debug\net10.0\RescueGame.deps.json
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\bin\Debug\net10.0\RescueGame.runtimeconfig.json
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\bin\Debug\net10.0\RescueGame.dll
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\bin\Debug\net10.0\RescueGame.pdb
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\obj\Debug\net10.0\RescueGame.dll
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\obj\Debug\net10.0\refint\RescueGame.dll
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\obj\Debug\net10.0\RescueGame.pdb
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\obj\Debug\net10.0\RescueGame.genruntimeconfig.cache
+D:\Deakin\S226\SIT771\Week7\Code\RescueGame\obj\Debug\net10.0\ref\RescueGame.dll
