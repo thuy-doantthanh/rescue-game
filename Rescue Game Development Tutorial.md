@@ -2,7 +2,7 @@
 
 This tutorial builds the C# SplashKit rescue game in three iterations. The first version has one responder and no walls. The second adds walls and A* pathfinding. The third adds a second player through a local network connection. The focus is on *why* navigation and networking are needed, and on how the classes work together.
 
-The tutorial assumes you already have a working SplashKit C# project. Put each class in its own `.cs` file under the same `CooperativeRescue` namespace. If your project uses `RescueGame` instead, use that namespace consistently in every file. SplashKit's [Windows installation guide](https://splashkit.io/installation/windows-msys2/) covers initial setup. SplashKit searches for image files in `Resources/images` ([resources reference](https://splashkit.io/api/resources/)).
+The tutorial assumes you already have a working SplashKit C# project. Put each class in its own `.cs` file under the same `CooperativeRescue` namespace. SplashKit's [Windows installation guide](https://splashkit.io/installation/windows-msys2/) covers initial setup. SplashKit searches for image files in `Resources/images` ([resources reference](https://splashkit.io/api/resources/)).
 
 ## What the finished game does
 
